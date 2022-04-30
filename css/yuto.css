@@ -1,0 +1,51 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family:
+        'Noto Serif TC',
+        'Noto Serif JP',
+        serif;
+    font-weight: 700;
+    line-height: 1.5;
+    margin: 1.25rem 0 .9375rem;
+    margin-top: 1.25rem;
+    margin-right: 0px;
+    margin-bottom: 0.9375rem;
+    margin-left: 0px;
+}
+
+.md h1 {
+    font-size: 1.5em;
+}
+
+.md h1,
+.md h2,
+.md h3,
+.md h4,
+.md h5,
+.md h6 {
+    position: relative;
+    padding-top: .625rem;
+}
+
+.article-title {
+    font-family:
+        'Noto Serif TC',
+        'Noto Serif JP',
+        serif;
+}
+
+/* 分類頁面清單調整 */
+li.category-list-item {
+    font-size: 24px;
+}
+
+#pagination .page-number.current {
+    background: #00a095;
+    color: var(--white);
+    cursor: default;
+}
+
