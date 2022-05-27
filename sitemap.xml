@@ -243,7 +243,7 @@
   </url>
   
   <url>
-    <loc>https://yuto-codeing.github.io/tags/%E6%88%90%E5%BE%B7%E9%AB%98%E4%B8%AD/</loc>
+    <loc>https://yuto-codeing.github.io/tags/%E6%BC%94%E7%AE%97%E6%B3%95/</loc>
     <lastmod>2022-05-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -264,7 +264,7 @@
   </url>
   
   <url>
-    <loc>https://yuto-codeing.github.io/tags/%E6%BC%94%E7%AE%97%E6%B3%95/</loc>
+    <loc>https://yuto-codeing.github.io/tags/%E6%88%90%E5%BE%B7%E9%AB%98%E4%B8%AD/</loc>
     <lastmod>2022-05-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -348,13 +348,6 @@
   </url>
   
   <url>
-    <loc>https://yuto-codeing.github.io/tags/ZeroJudge/</loc>
-    <lastmod>2022-05-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://yuto-codeing.github.io/tags/Vim/</loc>
     <lastmod>2022-05-27</lastmod>
     <changefreq>weekly</changefreq>
@@ -368,17 +361,24 @@
     <priority>0.2</priority>
   </url>
   
+  <url>
+    <loc>https://yuto-codeing.github.io/tags/ZeroJudge/</loc>
+    <lastmod>2022-05-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
   
   <url>
-    <loc>https://yuto-codeing.github.io/categories/%E8%AA%B2%E5%BE%8C%E5%B0%8F%E8%80%83%E6%AA%A2%E8%A8%8E/</loc>
+    <loc>https://yuto-codeing.github.io/categories/C/</loc>
     <lastmod>2022-05-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://yuto-codeing.github.io/categories/C/</loc>
+    <loc>https://yuto-codeing.github.io/categories/%E8%AA%B2%E5%BE%8C%E5%B0%8F%E8%80%83%E6%AA%A2%E8%A8%8E/</loc>
     <lastmod>2022-05-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
